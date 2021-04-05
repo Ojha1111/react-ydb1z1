@@ -1,0 +1,2578 @@
+h1, p {
+  font-family: Lato;
+}
+
+    "count": 18,
+    "results": [
+        {
+            "id": 15113,
+            "name": "Grilled Salmon Fillet. NYE 2020",
+            "last_updated": {
+                "date": "2019-12-29 07:27:08.288903+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-28 13:42:42.602297+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 1979.485165,
+            "sale_price": 0,
+            "gross_margin": 0,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 0,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 6.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "FRESH SALMON CLEANED",
+                    "yield": 80.0,
+                    "quantity": 990.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "KASHMIRI CHILLI-100 GM",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "GARLIC POWDER 400GM",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "ONION POWDER 400GMS",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "Mixed Herbs",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "Rose Marry",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "Paprika Powder 500 Gms",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "gm",
+                    "price": 50.0
+                },
+                {
+                    "name": "COUS COUS 1KGS",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CAPSICUM GREEN",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Red",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Yellow",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Parsely",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CAPSICUM GREEN",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Red",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Yellow",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Zucchini Green",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Zucchini Yellow",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Carrot",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BEET ROOT",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CHERRY TOMATO",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CAPERS 100GRM",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "VERO SAUVIGNON BLANC 375ML",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Beurre Blanc",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "ml",
+                    "price": 105.59676666666667
+                },
+                {
+                    "name": "Parsely",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [],
+            "categories": [
+                {
+                    "name": "Mains",
+                    "id": 7,
+                    "parent_category": "Menu Section"
+                },
+                {
+                    "name": "Non-Veg",
+                    "id": 251,
+                    "parent_category": "Diet Type"
+                }
+            ]
+        },
+        {
+            "id": 14526,
+            "name": "Textures of lamb",
+            "last_updated": {
+                "date": "2019-12-13 03:40:58.774456+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 16:02:35.088305+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 287.30137833333333,
+            "sale_price": 0,
+            "gross_margin": 0,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 0,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 4.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "BIG BRINJAL",
+                    "yield": 80.0,
+                    "quantity": 400.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 32.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "TAHINI PASTE 500ML",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Jeera 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ARABIAN SEA SALT 1KGS",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Water",
+                    "yield": 80.0,
+                    "quantity": 250.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "EXTRA VIRGIN OLIVE OIL 5LTR",
+                    "yield": 80.0,
+                    "quantity": 24.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "WHITE PEPPER POWDER 100GMS",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bay Leaf",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Baby Potato",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "JALAPENOS WHOLE 3KGS",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BAJJI CHILLY",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CAPERS 100GRM",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CORIANDER LEAVES",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "WHITE WINE VINEGAR 1LTR",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "MUTTON LEG CURRY CUT",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Jeera 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Chicken Stock",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "ml",
+                    "price": 32.85645
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MINT LEAVES",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Tomato sauce",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 1218.229
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 3.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bechamel Sauce",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 61.4582
+                },
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Panko Bread Crumbs",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14525,
+            "name": "Ricotta and pear tart",
+            "last_updated": {
+                "date": "2019-12-13 03:49:52.944750+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 15:42:33.503553+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 746.6951318571429,
+            "sale_price": 0,
+            "gross_margin": 0,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 0,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 8.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "RICOTTA CHEESE",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Mascarpone 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Nutmeg 100Gms",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ORANGE IMPORTED",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PEARS",
+                    "yield": 80.0,
+                    "quantity": 500.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ALMOND FLAKES",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "MONIN ALMOND 700ML",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MILKYMIST FRESH CREAM",
+                    "yield": 80.0,
+                    "quantity": 160.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Milk",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "VANILLA BEANS",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Coffee Bean Arabica 100%",
+                    "yield": 80.0,
+                    "quantity": 4.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 6.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "375ML NO 1 MC BRANDY",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Amul Fresh Cream 1Ltr",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 113.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14524,
+            "name": "Layered chocolate cake, chocolate mousse, chocolate cherry cake",
+            "last_updated": {
+                "date": "2019-12-13 03:55:52.743990+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 15:32:09.024199+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 678.3458833333333,
+            "sale_price": 0,
+            "gross_margin": 0,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 0,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 8.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 6.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 225.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Water",
+                    "yield": 80.0,
+                    "quantity": 59.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "SUNPURE OIL 15KG",
+                    "yield": 80.0,
+                    "quantity": 59.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 68.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MORDE COCO POWDER",
+                    "yield": 80.0,
+                    "quantity": 90.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BAKING POWDER WEIK FIELD",
+                    "yield": 80.0,
+                    "quantity": 3.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "COOKING SODA",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Milk",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "MILKYMIST FRESH CREAM",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "VANILLA BEANS",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "GELATIN 1KGS",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CALLEBAUT BITTER CHOCOLATE 70-30",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "GELATIN 1KGS",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MILKYMIST FRESH CREAM",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MORDE WHITE COMPUND 500 GMS",
+                    "yield": 80.0,
+                    "quantity": 160.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Water",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CALLEBAUT BITTER CHOCOLATE 70-30",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Maraschino Cherry Red 630Grm",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Water",
+                    "yield": 80.0,
+                    "quantity": 210.0,
+                    "unit": "ml",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14523,
+            "name": "Chocolate boudino tart",
+            "last_updated": {
+                "date": "2019-12-13 04:01:44.742587+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 15:15:03.194935+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 562.1371809118459,
+            "sale_price": 93.69,
+            "gross_margin": -4.999969910469057,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 93.69,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 6.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "MILKYMIST FRESH CREAM",
+                    "yield": 80.0,
+                    "quantity": 315.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "VANILLA BEANS",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Callebaut Dark Chocolate -811",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MORDE DARK COMPUND 500 GMS",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Milk",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Brown Sugar 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 87.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 4.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 160.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CORN SYRUP",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "MILKYMIST FRESH CREAM",
+                    "yield": 80.0,
+                    "quantity": 45.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 45.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Hung Curd",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 352.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 113.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BREAK FAST SUGAR 1KGS",
+                    "yield": 80.0,
+                    "quantity": 55.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "VANNILA FLAVOUR-500GM",
+                    "yield": 80.0,
+                    "quantity": 3.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "MORDE COCO POWDER",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PEARS",
+                    "yield": 80.0,
+                    "quantity": 150.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PLUMS FRUITS",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PEACH HALVES 820GMS",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Apricot Dry",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Chocolate Tart.",
+                    "price": 425.0
+                },
+                {
+                    "name": "Chocolate Tart",
+                    "price": 0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14522,
+            "name": "Couscous rissoles with tagine style vegetables",
+            "last_updated": {
+                "date": "2019-12-12 15:04:18.972326+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 15:04:16.597501+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 238.049365,
+            "sale_price": 59.515,
+            "gross_margin": -2.9998213055532217,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 59.515,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 4.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "COUS COUS 1KGS",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Water",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "BABY ONION",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PARSELY FLAT",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CORIANDER LEAVES",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "KABOOL CHANNA-1KGS",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Jeera 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "TOMATO",
+                    "yield": 80.0,
+                    "quantity": 400.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Carrot",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "TURNIP",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "SWEET POTATO",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Red Pumpkin",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "DRY GRAPES 1KGS",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ARTICHOKE HEART 400GRM",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Zucchini Green",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Zucchini Yellow",
+                    "yield": 80.0,
+                    "quantity": 100.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ARABIAN SEA SALT 1KGS",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 12.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Safforn 1 Gm",
+                    "yield": 80.0,
+                    "quantity": 0.2,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "TURMERIC POWDER MDH  500GRMS",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CINNAMOM STICK 100GRM",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CORIANDER LEAVES",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PARSELY FLAT",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 45.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Harissa BIAL",
+                    "yield": 80.0,
+                    "quantity": 4.0,
+                    "unit": "portion",
+                    "price": 151.073
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Jeera 1Kgs",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PARSELY FLAT",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Couscous Rissole On Tajine Style Vegetab",
+                    "price": 275.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14521,
+            "name": "Pappardelle with mushroom ragout",
+            "last_updated": {
+                "date": "2019-12-13 04:26:54.763214+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 14:38:13.038260+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 342.3210021621622,
+            "sale_price": 85.58,
+            "gross_margin": -3.000011710237932,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 85.58,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 4.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 8.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Safforn 1 Gm",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Mushroom",
+                    "yield": 80.0,
+                    "quantity": 320.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Porchini Mushroom",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "OYSTER MUSHROOM",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Leaks",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 3.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 32.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Veg Stock",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "ml",
+                    "price": 32.3267
+                },
+                {
+                    "name": "VERO SAUVIGNON BLANC 750ML",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CHERRY TOMATO",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "KALAMATA OLIVES370GRM",
+                    "yield": 80.0,
+                    "quantity": 24.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Dill Leaves",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Herb Chives",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Parsely",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Pappardelle With Mushroom Ragu",
+                    "price": 385.0
+                },
+                {
+                    "name": "Pappardelle With Mushroom Ragu.",
+                    "price": 385.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14520,
+            "name": "Asparagus and pea lasagna",
+            "last_updated": {
+                "date": "2019-12-13 04:33:28.979167+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 14:27:26.602285+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 683.48176,
+            "sale_price": 113.91333333333333,
+            "gross_margin": -5.000015450342366,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 113.91333333333333,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 6.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "ASPARGAS",
+                    "yield": 80.0,
+                    "quantity": 500.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 32.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 20.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Green Peas",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bechamel Sauce",
+                    "yield": 80.0,
+                    "quantity": 480.0,
+                    "unit": "g",
+                    "price": 61.4582
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 32.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Leaks",
+                    "yield": 80.0,
+                    "quantity": 32.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Carrot",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Amul Fresh Cream 1Ltr",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "PASTA LASAGNE 500GRM",
+                    "yield": 80.0,
+                    "quantity": 250.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 24.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Grana Padano (Ferrari )Italian Cheese",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "D`Lecta Mozzarella",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Tomato sauce",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 1218.229
+                },
+                {
+                    "name": "CHERRY TOMATO",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Basil",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Asparagus And Pea Lasagna",
+                    "price": 525.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14519,
+            "name": "Cacciatore style chicken breast with polenta chips",
+            "last_updated": {
+                "date": "2019-12-13 04:36:58.213347+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 14:12:34.939130+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 481.73566,
+            "sale_price": 120.435,
+            "gross_margin": -2.999963963963964,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 120.435,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 4.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "CHICKEN BREAST CLEANED",
+                    "yield": 80.0,
+                    "quantity": 720.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Pietro Coricelli Olive Oil Pure 5.Ltr",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "RED WINE VINEGAR",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Lemon",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Rosemary Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bay Leaf",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Chilli Flakes",
+                    "yield": 80.0,
+                    "quantity": 3.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ARABIAN SEA SALT 1KGS",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Mushroom",
+                    "yield": 80.0,
+                    "quantity": 200.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "OYSTER MUSHROOM",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Porchini Mushroom",
+                    "yield": 80.0,
+                    "quantity": 4.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "PALAK",
+                    "yield": 80.0,
+                    "quantity": 260.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Red",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Capsicum Yellow",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "FENNEL (FINO) BULB",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CHICKEN BONES",
+                    "yield": 80.0,
+                    "quantity": 600.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 80.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Carrot",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bay Leaf",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Dijon Mustard 370Grm",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "POLENTA MORETTI 500GRM",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Safforn 1 Gm",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 24.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Grana Padano (Ferrari )Italian Cheese",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Cacciatore Style Chicken Breast With Pol",
+                    "price": 550.0
+                },
+                {
+                    "name": "Chicken Breast Cacciatore Style",
+                    "price": 550.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        },
+        {
+            "id": 14518,
+            "name": "Pappardelle with duck ragout, olives and red wine",
+            "last_updated": {
+                "date": "2019-12-13 05:18:49.334014+00:00",
+                "name": "Nawaid  "
+            },
+            "created": {
+                "date": "2019-12-12 13:54:13.152314+00:00",
+                "name": "hasan@windmillscraftworks.com"
+            },
+            "cogs": 20.0,
+            "cost_price": 634.075753918919,
+            "sale_price": 167.8125,
+            "gross_margin": -2.778477490764508,
+            "manufacturing_outlet": "Windmills Bangalore",
+            "is_disabled": false,
+            "is_draft": false,
+            "is_incorrect": false,
+            "is_untagged": false,
+            "desired_margin": 80.0,
+            "current_sale_price": 167.8125,
+            "recommended_price": 300,
+            "sub_recipe_of": [],
+            "recipe_output": [
+                {
+                    "quantity": 4.0,
+                    "unit": "portion"
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "Wheat Maida",
+                    "yield": 80.0,
+                    "quantity": 300.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Egg",
+                    "yield": 80.0,
+                    "quantity": 8.0,
+                    "unit": "nos",
+                    "price": 50.0
+                },
+                {
+                    "name": "Safforn 1 Gm",
+                    "yield": 80.0,
+                    "quantity": 0.1,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "DUCK CLEANED",
+                    "yield": 80.0,
+                    "quantity": 320.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "ARABIAN SEA SALT 1KGS",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "FENNAL",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Black Pepper",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "EXTRA VIRGIN OLIVE OIL 5LTR",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "NANDINI BUTTER",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Celery",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Carrot",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Onion Big",
+                    "yield": 80.0,
+                    "quantity": 60.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Garlic Pealed",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Thyme Fresh",
+                    "yield": 80.0,
+                    "quantity": 15.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Bay Leaf",
+                    "yield": 80.0,
+                    "quantity": 2.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Tomato sauce",
+                    "yield": 80.0,
+                    "quantity": 50.0,
+                    "unit": "g",
+                    "price": 1218.229
+                },
+                {
+                    "name": "Fratelli Cabernet Franc Shiiraz 750Ml",
+                    "yield": 80.0,
+                    "quantity": 120.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "SHERRY VINEGAR 500ML",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Chicken Stock",
+                    "yield": 80.0,
+                    "quantity": 1.0,
+                    "unit": "l",
+                    "price": 32.85645
+                },
+                {
+                    "name": "President Butter Salted",
+                    "yield": 80.0,
+                    "quantity": 30.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "KALAMATA OLIVES370GRM",
+                    "yield": 80.0,
+                    "quantity": 25.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "CHERRY TOMATO",
+                    "yield": 80.0,
+                    "quantity": 40.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "EXTRA VIRGIN OLIVE OIL 5LTR",
+                    "yield": 80.0,
+                    "quantity": 24.0,
+                    "unit": "ml",
+                    "price": 50.0
+                },
+                {
+                    "name": "Dill Leaves",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Parsely",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Herb Chives",
+                    "yield": 80.0,
+                    "quantity": 10.0,
+                    "unit": "g",
+                    "price": 50.0
+                },
+                {
+                    "name": "Salt Powder",
+                    "yield": 80.0,
+                    "quantity": 5.0,
+                    "unit": "g",
+                    "price": 50.0
+                }
+            ],
+            "menu_items": [
+                {
+                    "name": "Pappardelle With Venetian Duck Ragu",
+                    "price": 725.0
+                },
+                {
+                    "name": "Pappardelle With  Duck",
+                    "price": 725.0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Holiday menu 2019",
+                    "id": 4514,
+                    "parent_category": "F n B Department"
+                }
+            ]
+        }
+    ],
+    "next": null,
+    "previous": null
+}
