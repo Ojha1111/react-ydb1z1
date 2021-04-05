@@ -25,4 +25,38 @@ multiSelect.addValueChangeListener(e -> {
     Set<Person> selectedPersons = e.getValue();
 });
   );
+
+  from typing import Optional
+
+from fastapi import FastAPI
+from fastapi import FastAPI
+
+app = FastAPI()
+
+
+@app.get("/items/{item_id}")
+async def read_user_item(item_id: str, needy: str):
+    item = {"item_id": item_id, "needy": needy}
+    return item
+
+app = FastAPI()
+
+{
+    "detail": [
+        {
+            "loc": [
+                "query",
+                "needy"
+            ],
+            "msg": "field required",
+            "type": "value_error.missing"
+        }
+    ]
+}
+@app.get("/items/{item_id}")
+async def read_user_item(
+    item_id: str, needy: str, skip: int = 0, limit: Optional[int] = None
+):
+    item = {"item_id": item_id, "needy": needy, "skip": skip, "limit": limit}
+    return item
 }
